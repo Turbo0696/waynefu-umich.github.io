@@ -15,7 +15,7 @@ echo "--- staging all changes ---"
 git add -A
 
 echo "--- committing ---"
-git commit -m "style(work): show full DOI URLs as link text in publications"
+git commit -m "feat(work): add DSI 2024 and 2025 conference presentations"
 
 echo "--- pushing to origin/main ---"
 echo "(A browser window may open for GitHub authentication — click Authorize.)"
