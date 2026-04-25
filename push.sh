@@ -15,7 +15,7 @@ echo "--- staging all changes ---"
 git add -A
 
 echo "--- committing ---"
-git commit -m "docs(work): update 2026 JBL publication title"
+git commit -m "chore: add CLAUDE.md and git-remove-lock skill"
 
 echo "--- pushing to origin/main ---"
 echo "(A browser window may open for GitHub authentication — click Authorize.)"
