@@ -15,7 +15,7 @@ echo "--- staging all changes ---"
 git add -A
 
 echo "--- committing ---"
-git commit -m "style(content): remove work page-label; fix industry intro paragraph formatting"
+git commit -m "style(nav): remove page-label from all pages"
 
 echo "--- pushing to origin/main ---"
 echo "(A browser window may open for GitHub authentication — click Authorize.)"
