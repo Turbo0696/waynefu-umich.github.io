@@ -15,7 +15,7 @@ echo "--- staging all changes ---"
 git add -A
 
 echo "--- committing ---"
-git commit -m "feat(work): add MS Business Analytics video to Media & Press section"
+git commit -m "style(content): remove work page-label; fix industry intro paragraph formatting"
 
 echo "--- pushing to origin/main ---"
 echo "(A browser window may open for GitHub authentication — click Authorize.)"
